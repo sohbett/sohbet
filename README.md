@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Sohbet Chat Sohbet Odaları
 
-You can use the [editor on GitHub](https://github.com/sohbett/sohbet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Merhaba yeni ve farklı insanlarla tanışmak yada sohbet etmek isteyen ya da eğlenceli ve hoş zaman geçirmek isteyen kullanıcıları [sohbet odaları](http://www.sohbetodalari.life) içerisinde buluşturarak, birbirleri ile iletişim kurmalarını [chat](http://www.sohbetodalari.life) yaparak arkadaş olmalarını sağlıyoruz.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sohbet odaları kullanıcıların farklı cihazlarına uyumlu  (mobil, tablet yada bilgisayar) sohbet ve chat arayüzlerini üye olmadan, herhangi bir ücret ödemeden bedava kullanıcıların hizmetine sunuyor. Mobil cihaz ve tablet kullanıcıları %100 güvenli ve mobil uyumlu sohbet ve chat arayüzlerini rahatlıkla kullanabilir, kimlikleri ve kişisel bilgileri gizli chat ve sohbet yapabilir.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sohbett/sohbet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 
